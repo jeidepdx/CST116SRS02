@@ -2,11 +2,11 @@
 I/O Stream Formatting
 
 
-Class ID: 
+Class ID: Fearow
 
 SRS ID: CST116SRS02
 
-Unresolved Issues: 
+Unresolved Issues: None
 
 Notes: 
 
